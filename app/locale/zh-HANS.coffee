@@ -189,7 +189,7 @@ module.exports = nativeDescription: "简体中文", englishDescription: "Chinese
     job_profile: "工作经历"
     job_profile_approved: "你填写的工作经历将由CodeCombat认证. 雇主将看到这些信息，除非你将它设置为不启用状态或者连续四周没有更新."
     job_profile_explanation: "你好! 填写这些信息, 我们将使用它帮你寻找一份软件开发的工作."
-#    sample_profile: "See a sample profile"
+    sample_profile: "看一个例子"
     view_profile: "浏览个人信息"
 
   account_profile:
